@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+this is test for gitlab
+
+redis缓存
+2种方式，注解和redistemplate
+
+注解的代码放置于domain文件夹
+redistemplate放置于dome文件夹
+=======
+this is test for gitlab
+>>>>>>> dd3ce2b3398ac7f8ac99130abd5cf7d7cf297880
